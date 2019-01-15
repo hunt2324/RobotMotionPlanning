@@ -1,0 +1,3 @@
+In order to run both PRM and RRT you must run PRM.py and rrt.py respectively
+
+changing the obstacle shapes in Robot.py will allow you to test the PRM robot in a different state also

@@ -1,0 +1,8 @@
+Screen filter=lfs diff=lfs merge=lfs -text
+Capture2017-11-16 filter=lfs diff=lfs merge=lfs -text
+12_15_55.mov filter=lfs diff=lfs merge=lfs -text
+2017 filter=lfs diff=lfs merge=lfs -text
+Screen_Capture1.mov filter=lfs diff=lfs merge=lfs -text
+Screen_Capture2.mov filter=lfs diff=lfs merge=lfs -text
+Screen_Capture3.mov filter=lfs diff=lfs merge=lfs -text
+Screen_Capture4.mov filter=lfs diff=lfs merge=lfs -text
